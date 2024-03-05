@@ -3,6 +3,14 @@
 
 - 📫 How to reach me **trym.loekkeberg.25@dartmouth.edu**
 
+Due to Dartmouth's Academic Honor Principle, I am not allowed to give public access to some of my repositories containing school projects. If you want to see the code for the following projects, please contact me and I will give you permission to the private repositories.
+1. Chess AI that can play against humans.
+2. Sudoku Solver
+3. Nuggets - An online game where people look for gold in a maze
+4. Part of Speech Tagger
+5. Tiny Search Engine - A querier, indexer, and crawler used under the hood to create a search engine.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/trym-loekkeberg-69b955246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trym-loekkeberg-69b955246/" height="30" width="40" /></a>
