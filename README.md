@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.labio.icu/badge?page_id=lokkis22.lokkis22" />
+
 <h1 align="center">Hi 👋, I'm Trym</h1>
 <h3 align="center">Computer science major and student-athlete at Dartmouth College</h3>
 
