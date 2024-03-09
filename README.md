@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js, and Networking Fundamentals**
 
-- 👨‍💻 A description of all of my projects are available on my [portofolio website](trymloekkeberg.com)
+- 👨‍💻 A description of all of my projects are available on my [portfolio website](https://www.trymloekkeberg.com)
 
 - 💬 Ask me about **Python, Swift, and Hockey**
 
